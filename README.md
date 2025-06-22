@@ -18,5 +18,6 @@ A clean, responsive, and professional-looking Tic Tac Toe game built using **HTM
 
 live demo 
 
-tic-tac-toa-teal.vercel.app
+[Tic Tac Toa](https://tic-tac-toa-teal.vercel.app/)
+
 
